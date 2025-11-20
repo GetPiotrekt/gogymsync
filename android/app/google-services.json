@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "157063492247",
+    "project_id": "gogymsync",
+    "storage_bucket": "gogymsync.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157063492247:android:993c62064affb5d72cafd2",
+        "android_client_info": {
+          "package_name": "com.example.gogymsync"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd_91aZr7R4ZeQNxopXpyor-OTQ9eoN4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
