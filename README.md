@@ -7,24 +7,28 @@ It allows creating sessions, joining users, and sharing data in real-time.
 
 # 🚀 Features
 
-## Training Sessions
-	•	Creating a session with a unique code.
-	•	Users can join sessions.
-	•	Roles: host and participant.
-	•	Real-time monitoring of session status.
-
-## Lobby
-	•	Displaying online users.
-	•	Live updates.
-	•	Host can start the session.
-
-## Notes
-	•	Add, edit, and delete notes.
-	•	Instant synchronization among all participants.
-
-## Session Ending
-	•	Host can end the session.
-	•	Automatic removal of session, users, and notes.
+	1. Training Sessions
+	   
+		•	Creating a session with a unique code.
+		•	Users can join sessions.
+		•	Roles: host and participant.
+		•	Real-time monitoring of session status.
+	
+	2. Lobby
+	   
+		•	Displaying online users.
+		•	Live updates.
+		•	Host can start the session.
+	
+	3. Notes
+	   
+		•	Add, edit, and delete notes.
+		•	Instant synchronization among all participants.
+	
+	4. Session Ending
+	   
+		•	Host can end the session.
+		•	Automatic removal of session, users, and notes.
 
 # 📋 Requirements
 
@@ -126,24 +130,28 @@ Pozwala tworzyć sesje, dołączać użytkowników i współdzielić informacje 
 
 # 🚀 Funkcje
 
-## Sesje treningowe
-	•	Tworzenie sesji z unikalnym kodem.
-	•	Dołączanie użytkowników.
-	•	Role: host i participant.
-	•	Monitorowanie statusu sesji na żywo.
-
-## Lobby
-	•	Lista użytkowników online.
-	•	Aktualizacja w czasie rzeczywistym.
-	•	Start sesji przez hosta.
-
-## Notatki
-	•	Dodawanie, edytowanie i usuwanie notatek.
-	•	Natychmiastowa synchronizacja między uczestnikami.
-
-## Zakończenie sesji
-	•	Możliwość zakończenia przez hosta.
-	•	Automatyczne usunięcie sesji + użytkowników + notatek.
+	1. Sesje treningowe
+	   
+		•	Tworzenie sesji z unikalnym kodem.
+		•	Dołączanie użytkowników.
+		•	Role: host i participant.
+		•	Monitorowanie statusu sesji na żywo.
+	
+	2. Lobby
+	   
+		•	Lista użytkowników online.
+		•	Aktualizacja w czasie rzeczywistym.
+		•	Start sesji przez hosta.
+	
+	3. Notatki
+	   
+		•	Dodawanie, edytowanie i usuwanie notatek.
+		•	Natychmiastowa synchronizacja między uczestnikami.
+	
+	4. Zakończenie sesji
+	   
+		•	Możliwość zakończenia przez hosta.
+		•	Automatyczne usunięcie sesji + użytkowników + notatek.
 
 # 📋 Wymagania
 
