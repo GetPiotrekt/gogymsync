@@ -2,8 +2,8 @@
 
 # EN / GoGymSync – Shared Training Session Module
 
-This module is responsible for handling shared training sessions in the GoGymSync / GoGymSimple application.
-It allows creating sessions, joining users, and sharing data in real-time.
+	This module is responsible for handling shared training sessions in the GoGymSync / GoGymSimple application.
+	It allows creating sessions, joining users, and sharing data in real-time.
 
 # 🚀 Features
 
@@ -98,8 +98,8 @@ It allows creating sessions, joining users, and sharing data in real-time.
 
 # 🧩 Architecture
 
-The project follows Clean Architecture (Layer First):
-
+	The project follows Clean Architecture (Layer First):
+	
 <img width="407" height="430" alt="Image" src="https://github.com/user-attachments/assets/cb63525f-d317-4d80-914d-698d5ffa13bb" />
 
 ## presentation → domain → data
@@ -125,8 +125,8 @@ The project follows Clean Architecture (Layer First):
 
 # PL / GoGymSync – moduł wspólnych sesji treningowych
 
-Moduł odpowiedzialny za obsługę wspólnej sesji treningowej w aplikacji GoGymSync / GoGymSimple.
-Pozwala tworzyć sesje, dołączać użytkowników i współdzielić informacje w czasie rzeczywistym.
+	Moduł odpowiedzialny za obsługę wspólnej sesji treningowej w aplikacji GoGymSync / GoGymSimple.
+	Pozwala tworzyć sesje, dołączać użytkowników i współdzielić informacje w czasie rzeczywistym.
 
 # 🚀 Funkcje
 
@@ -221,8 +221,8 @@ Pozwala tworzyć sesje, dołączać użytkowników i współdzielić informacje 
 
 # 🧩 Architektura
 
-Projekt oparty jest o Clean Architecture (Layer First): 
-
+	Projekt oparty jest o Clean Architecture (Layer First): 
+	
 <img width="407" height="430" alt="Image" src="https://github.com/user-attachments/assets/cb63525f-d317-4d80-914d-698d5ffa13bb" />
 
 ## presentation  →  domain  →  data
